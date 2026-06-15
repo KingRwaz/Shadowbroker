@@ -1,0 +1,21 @@
+Asset Category,Asset Item,Purpose,Priority,Current Status,Owner,Format,Where Stored,Next Action,Quality Standard,Notes
+Identity,Professional title,Clarify positioning,High,Pending,Rachael/Text team,Text,Profile document,Confirm final title,Clear and senior-level,"Suggested: Ugandan-British Choreographer, Director, Movement Director and Creative Consultant."
+Identity,Short bio,Use in emails and media,High,Pending,Rachael/Text team,Text,One-page profile,Review against website,Accurate and concise,Do not exaggerate credits.
+Identity,Long bio,Use in proposals,Medium,Pending,Rachael/Text team,Text,Proposal folder,Develop from public profile,Professional and evidence-based,Include Uganda/UK bridge.
+Portfolio,Website link,Show credibility,High,Available,Rachael,URL,Profile and email signature,Confirm preferred URL,Correct and live,Use as primary evidence.
+Portfolio,Selected production credits,Support senior positioning,High,Pending,Rachael,Text/List,Portfolio folder,Select 5-8 strongest credits,Relevant and verified,Do not overload first email.
+Portfolio,Photos/stills,Visual proof,High,Pending,Rachael,Images,Portfolio folder,Gather approved images,Permission-cleared,Use only images she has rights to share.
+Portfolio,Showreel/video clips,Demonstrate work quality,High,Pending,Rachael,Video/URL,Portfolio folder,Select 60-120 sec reel,Clear and professional,Optional if confidential work restrictions exist.
+Portfolio,Press links/reviews,Third-party proof,Medium,Pending,Rachael,Links/PDF,Portfolio folder,Gather strongest links,Relevant and accurate,Useful for institutional credibility.
+Portfolio,Testimonials/references,Trust-building,Medium,Pending,Rachael,Text/PDF,Portfolio folder,Request permission to use,Credible and recent,Can say references available on request.
+Proposal,One-page AFCON profile,First outreach,High,Created,Henry/Workpack,Markdown/PDF,Workpack,Convert to PDF if needed,Send-ready,Personalise per institution.
+Proposal,Formal introduction letter,Official outreach,High,Created,Henry/Workpack,Markdown/PDF,Workpack,Personalise recipient,Respectful tone,Use for government/institutions.
+Proposal,Concept note,Second-stage outreach,High,Created,Henry/Workpack,Markdown/PDF,Workpack,Prepare sponsor/institution variants,Practical and clear,Send only after interest or with formal pitch.
+Proposal,Sample run-of-show,Make pilot concrete,High,Pending,Project team,Text/Table,Workpack,Create for Cafe Arts AFCON Pop-Up,Timed and realistic,Needed for pilot venue.
+Proposal,Mini budget template,Discuss feasibility,High,Pending,Project team,Spreadsheet,Workpack,Create low/medium/high budget,Transparent assumptions,Do not promise funding.
+Proposal,Performer/partner roster,Show implementation capacity,Medium,Pending,Project team,CSV,Workpack,Map potential local partners,Permission-based,Important for local legitimacy.
+Digital,LinkedIn profile alignment,Professional discovery,Medium,Pending,Rachael,Online profile,LinkedIn,Update headline and summary,Matches positioning,Useful for outreach.
+Digital,Instagram/portfolio curation,Visual discovery,Medium,Pending,Rachael,Online profile,Instagram/Website,Pin relevant posts,Professional first impression,Separate personal and professional if needed.
+Digital,Intro video,Human introduction,Medium,Pending,Rachael,Video,Portfolio folder,Record 60-90 second intro,Clear audio and concise,Can be used for warm referrals.
+Research,Cafe arts research notes,Future venture learning,High,Pending,Rachael,CSV/Notes,Research log,Visit and log venues,Honest observations,Builds business insight.
+Research,Stakeholder meeting notes,Track learning and follow-up,High,Pending,Project team,Notes/CRM,Outreach tracker,Create notes after every call,Actionable and dated,Protects continuity.
