@@ -49,11 +49,63 @@ The recommended framing is:
 8. `08-meeting-questions-and-script.md`  
    A meeting script and questions for tourism, culture, hospitality and event-sector officials.
 
+9. `09-first-stage-data-index.md`  
+   The operating index for the first-stage data layer.
+
+10. `10-message-bank-phase-1.md`  
+   A ready-to-use message bank for WhatsApp, email, referrals, follow-ups and meeting confirmations.
+
+---
+
+## First-Stage Data Files
+
+The `data/` folder now contains practical execution data for the first 30 to 90 days:
+
+1. `data/stakeholder-map-phase-1.csv`  
+   Uganda-first stakeholder map, with Kenya, Tanzania and UK/diaspora routes as secondary targets.
+
+2. `data/outreach-sequence-phase-1.csv`  
+   Contact sequence showing timing, target group, channel, message asset, call-to-action and follow-up.
+
+3. `data/meeting-question-bank.csv`  
+   Structured question bank for tourism, culture, sport, hospitality, event, sponsor, media, diaspora and cafe-arts meetings.
+
+4. `data/pilot-activation-options.csv`  
+   Early pilot concepts such as Uganda Cultural Welcome Night, Cafe Arts AFCON Pop-Up and Diaspora Creative Reception.
+
+5. `data/portfolio-asset-inventory.csv`  
+   Checklist of profile, portfolio, proposal, digital and research assets needed before and during outreach.
+
+6. `data/cafe-arts-research-log.csv`  
+   Field research tracker for cafes, galleries, hotels, venues, cultural sites and tourism experiences.
+
+7. `data/opportunity-risk-register.csv`  
+   Risk register covering informal agents, weak positioning, unpaid exploitation, local legitimacy and operational uncertainty.
+
+8. `data/sample-run-of-show-cafe-arts-pop-up.csv`  
+   Starter run-of-show for a small cafe-arts AFCON cultural pilot.
+
+9. `data/mini-budget-template.csv`  
+   Early low/medium/high budget template with assumptions clearly marked.
+
+10. `data/weekly-activity-scorecard.csv`  
+   Weekly tracker for outreach volume, replies, meetings, referrals, portfolio growth, research and pilot progress.
+
 ---
 
 ## Recommended Use
 
 Use the one-page profile and introduction letter for first contact. Use the concept note after someone shows interest. Use the outreach tracker weekly. Use the 30/90-day plan as the operating calendar. Use the technical toolkit only after a real event, pop-up, showcase or pilot activation becomes serious.
+
+For the first stage, use the data folder as the daily operating system:
+
+- Start with the stakeholder map.
+- Use the message bank and outreach sequence.
+- Record each contact in the tracker.
+- Prepare for meetings with the question bank.
+- Build credibility with the portfolio inventory.
+- Test the cafe-arts idea through the research log and pilot run-of-show.
+- Review progress weekly using the scorecard.
 
 ---
 
