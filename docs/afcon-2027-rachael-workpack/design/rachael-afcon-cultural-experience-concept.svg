@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Rachael Nanyonjo — Uganda: The Culture Behind the Game</title>
+  <desc id="desc">Original presentation graphic concept combining movement, football, Ugandan landscape and contemporary cultural programming. Not an official AFCON or CAF mark.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101A2B"/><stop offset="0.58" stop-color="#17263D"/><stop offset="1" stop-color="#071018"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6C65B"/><stop offset="1" stop-color="#D9873D"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D94141"/><stop offset="1" stop-color="#9F2430"/>
+    </linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.5" fill="#F6C65B" opacity="0.28"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="18" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="0" y="0" width="720" height="900" fill="url(#dots)" opacity="0.7"/>
+
+  <!-- sun / cultural pulse -->
+  <circle cx="1240" cy="210" r="135" fill="url(#sun)" opacity="0.95" filter="url(#glow)"/>
+  <circle cx="1240" cy="210" r="185" fill="none" stroke="#F6C65B" stroke-width="2" opacity="0.32"/>
+  <circle cx="1240" cy="210" r="235" fill="none" stroke="#F6C65B" stroke-width="2" opacity="0.16"/>
+
+  <!-- abstract landscape / Nile rhythm -->
+  <path d="M0 700 C180 610 300 650 440 720 C600 800 770 770 920 690 C1060 615 1200 630 1600 740 L1600 900 L0 900Z" fill="#0B1521"/>
+  <path d="M0 760 C230 700 350 735 520 800 C690 864 870 820 1030 750 C1200 675 1380 700 1600 780" fill="none" stroke="#F6C65B" stroke-width="4" opacity="0.65"/>
+  <path d="M0 790 C250 730 370 770 540 825 C700 878 890 850 1050 785 C1230 712 1390 740 1600 805" fill="none" stroke="#D94141" stroke-width="3" opacity="0.8"/>
+
+  <!-- dynamic movement figure, intentionally abstract -->
+  <g transform="translate(910 280) rotate(-7)">
+    <circle cx="0" cy="0" r="34" fill="#F1E9DA"/>
+    <path d="M-28 48 C-8 20 22 20 40 55 L20 230 C10 300 50 355 105 430" fill="none" stroke="#F1E9DA" stroke-width="44" stroke-linecap="round"/>
+    <path d="M-8 65 C-90 125 -165 170 -260 210" fill="none" stroke="#F1E9DA" stroke-width="25" stroke-linecap="round"/>
+    <path d="M8 75 C85 118 160 110 235 65" fill="none" stroke="#F1E9DA" stroke-width="25" stroke-linecap="round"/>
+    <path d="M18 225 C-45 310 -110 370 -195 420" fill="none" stroke="#F1E9DA" stroke-width="31" stroke-linecap="round"/>
+    <path d="M18 225 C70 300 155 365 245 405" fill="none" stroke="#F1E9DA" stroke-width="31" stroke-linecap="round"/>
+    <path d="M-260 210 C-320 245 -360 265 -410 270" fill="none" stroke="#D94141" stroke-width="10" stroke-linecap="round" opacity="0.85"/>
+    <path d="M235 65 C300 45 340 15 370 -25" fill="none" stroke="#F6C65B" stroke-width="10" stroke-linecap="round" opacity="0.9"/>
+  </g>
+
+  <!-- football orbit -->
+  <ellipse cx="1030" cy="465" rx="400" ry="205" fill="none" stroke="#F1E9DA" stroke-width="2" stroke-dasharray="8 16" opacity="0.35" transform="rotate(-16 1030 465)"/>
+  <circle cx="1370" cy="370" r="34" fill="#F1E9DA" opacity="0.96"/>
+  <path d="M1352 360 l15 -13 19 7 5 18 -14 15 -19 -5z" fill="#101A2B"/>
+
+  <!-- title block -->
+  <g fill="#F1E9DA">
+    <text x="100" y="118" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="6" fill="#F6C65B">RACHAEL NANYONJO</text>
+    <text x="100" y="205" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-2">UGANDA:</text>
+    <text x="100" y="275" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-2">THE CULTURE</text>
+    <text x="100" y="345" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-2">BEHIND THE GAME</text>
+    <rect x="102" y="385" width="420" height="4" fill="#D94141"/>
+    <text x="100" y="432" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="1" fill="#D8D1C5">Creative Direction • Choreography • Movement</text>
+    <text x="100" y="470" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="1" fill="#D8D1C5">Cultural Programming • Visitor Experience</text>
+  </g>
+
+  <!-- bottom positioning statement -->
+  <g>
+    <rect x="100" y="585" width="630" height="155" rx="4" fill="#0A111B" opacity="0.86" stroke="#F6C65B" stroke-width="1" opacity="0.7"/>
+    <text x="130" y="630" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#F6C65B" letter-spacing="2">A CREATIVE PARTNERSHIP PROPOSITION</text>
+    <text x="130" y="673" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#F1E9DA">Making Uganda’s AFCON visitor experience</text>
+    <text x="130" y="708" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#F1E9DA">distinctive, human and internationally memorable.</text>
+  </g>
+
+  <text x="100" y="835" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#9AA7B5" letter-spacing="2">AFCON PAMOJA 2027 • CONCEPT VISUAL • ORIGINAL NON-OFFICIAL DESIGN</text>
+</svg>
